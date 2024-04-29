@@ -1,0 +1,45 @@
+Virginia,Richmond,VA,George Washington
+Massachusetts,Boston,MA,John Adams
+Virginia,Richmond,VA,Thomas Jefferson
+Virginia,Richmond,VA,James Madison
+Virginia,Richmond,VA,James Monroe
+South Carolina,Columbia,SC,Andrew Jackson
+Massachusetts,Boston,MA,John Quincy Adams
+Virginia,Richmond,VA,William Henry Harrison
+New York,Albany,NY,Martin Van Buren
+Virginia,Richmond,VA,Zachary Taylor
+Virginia,Richmond,VA,John Tyler
+Pennsylvania,Harrisburg,PA,James Buchanan
+North Carolina,Raleigh,NC,James K. Polk
+New York,Albany,NY,Millard Fillmore
+New Hampshire,Concord,NH,Franklin Pierce
+North Carolina,Raleigh,NC,Andrew Johnson
+Kentucky,Frankfort,KY,Abraham Lincoln
+Ohio,Columbus,OH,Ulysses S. Grant
+Ohio,Columbus,OH,Rutherford B. Hayes
+Vermont,Montpelier,VT,Chester A. Arthur
+Ohio,Columbus,OH,James A. Garfield
+Ohio,Columbus,OH,Benjamin Harrison
+New Jersey,Trenton,NJ,Grover Cleveland
+Ohio,Columbus,OH,William McKinley
+Virginia,Richmond,VA,Woodrow Wilson
+Ohio,Columbus,OH,William Howard Taft
+New York,Albany,NY,Theodore Roosevelt
+Ohio,Columbus,OH,Warren G. Harding
+Vermont,Montpelier,VT,Calvin Coolidge
+Iowa,Des Moines,IA,Herbert Hoover
+New York,Albany,NY,Franklin D. Roosevelt
+Missouri,Jefferson City,MO,Harry S. Truman
+Texas,Austin,TX,Dwight D. Eisenhower
+Texas,Austin,TX,Lyndon B. Johnson
+Illinois,Springfield,IL,Ronald Reagan
+California,Sacramento,CA,Richard Nixon
+Nebraska,Lincoln,NE,Gerald Ford
+Massachusetts,Boston,MA,John F. Kennedy
+Massachusetts,Boston,MA,George H. W. Bush
+Georgia,Atlanta,GA,Jimmy Carter
+Pennsylvania,Harrisburg,PA,Joseph R. Biden
+New York,Albany,NY,Donald Trump
+Connecticut,Hartford,CT,George W. Bush
+Arkansas,Little Rock,AR,Bill Clinton
+Hawaii,Honolulu,HI,Barack Obama
